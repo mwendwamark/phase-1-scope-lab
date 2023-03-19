@@ -5,9 +5,9 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2023-03-19T09:42:46.243Z",
-    "end": "2023-03-19T09:42:47.377Z",
-    "duration": 1134
+    "start": "2023-03-19T09:45:15.331Z",
+    "end": "2023-03-19T09:45:16.423Z",
+    "duration": 1092
   },
   "tests": [
     {
@@ -34,14 +34,14 @@
     {
       "title": "overwrites the best customer",
       "fullTitle": "Fix the Scope overwriteBestCustomer() overwrites the best customer",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "unsuccessfully tries to reassign the least favorite customer",
       "fullTitle": "Fix the Scope changeLeastFavoriteCustomer() unsuccessfully tries to reassign the least favorite customer",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -73,14 +73,14 @@
     {
       "title": "overwrites the best customer",
       "fullTitle": "Fix the Scope overwriteBestCustomer() overwrites the best customer",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "unsuccessfully tries to reassign the least favorite customer",
       "fullTitle": "Fix the Scope changeLeastFavoriteCustomer() unsuccessfully tries to reassign the least favorite customer",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
